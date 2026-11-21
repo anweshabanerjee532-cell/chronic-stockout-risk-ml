@@ -1,0 +1,11 @@
+# Packages recorded for the final model run (Python 3.13.18)
+pandas==2.2.3
+numpy==2.4.6
+scikit-learn==1.6.1
+xgboost==3.4.1
+lightgbm==4.6.0
+catboost==1.2.10
+matplotlib==3.10.0
+
+# EDA notebook additionally imports seaborn; the exact version was not archived.
+seaborn>=0.13,<0.14
