@@ -1,0 +1,13 @@
+Split,Method,Capacity (%),Reviewed,Chronic cases found,Precision (%),Cases captured (%),Shortage cost share (%)
+Validation,CatBoost ML,5,338,314,92.9,15.17,9.95
+Validation,CatBoost ML,10,675,615,91.11,29.71,23.31
+Validation,CatBoost ML,20,1350,1112,82.37,53.72,48.47
+Validation,Safety-stock rule,5,338,321,94.97,15.51,12.51
+Validation,Safety-stock rule,10,675,615,91.11,29.71,24.41
+Validation,Safety-stock rule,20,1350,1121,83.04,54.15,48.72
+Test,CatBoost ML,5,338,306,90.53,14.78,9.04
+Test,CatBoost ML,10,675,603,89.33,29.13,27.88
+Test,CatBoost ML,20,1350,1081,80.07,52.22,52.76
+Test,Safety-stock rule,5,338,312,92.31,15.07,16.38
+Test,Safety-stock rule,10,675,608,90.07,29.37,32.42
+Test,Safety-stock rule,20,1350,1107,82.0,53.48,50.68

@@ -1,0 +1,7 @@
+Method,Assumed shortage-cost reduction (%),Hypothetical avoided cost,Maximum total cost per review for break-even
+CatBoost ML,2.0,47888.88,70.95
+CatBoost ML,5.0,119722.2,177.37
+CatBoost ML,10.0,239444.4,354.73
+Conventional rule,2.0,55703.81,82.52
+Conventional rule,5.0,139259.52,206.31
+Conventional rule,10.0,278519.04,412.62
